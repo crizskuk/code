@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="casting.cpp">
+    <ClCompile Include="class.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
