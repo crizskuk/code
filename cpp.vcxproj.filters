@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="class_friends.cpp">
+    <ClCompile Include="template.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
